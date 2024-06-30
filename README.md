@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohaan</h1>
-<h3 align="center">A passionate and aspiring software engineer from India with a keen interest in machine learning and cyber security</h3>
+<h3 align="center">A passionate and aspiring software engineer with a keen interest in machine learning and cyber security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0h-a-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="r0h-a-a-n" /> </p>
 
