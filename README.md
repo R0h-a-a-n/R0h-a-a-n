@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohaan</h1>
-<h3 align="center">A passionate and aspiring software engineer with a keen interest in machine learning and cyber security</h3>
+<h3 align="center">A passionate and aspiring software engineer with a keen interest in machine learning , cyber security , reverse engineering and malware analysis.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0h-a-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="r0h-a-a-n" /> </p>
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Penetration Testing and other cool stuff**
 
 - 📫 How to reach me **ssrohaan178@gmail.com**
-
-- ⚡ Fun fact **I'm cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
