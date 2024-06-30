@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Penetration Testing and other cool stuff**
 
-- 📫 How to reach me **ssrohaan178@gmail.com**
+- 📫 You can reach out to me on **ssrohaan178@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
