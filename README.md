@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 💬 Ask me about **Penetration Testing and other cool stuff**
-
 - 📫 You can reach out to me on **ssrohaan178@gmail.com**
 
 
