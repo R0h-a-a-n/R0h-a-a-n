@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0h-a-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="r0h-a-a-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0h-a-a-n" alt="r0h-a-a-n" /></a> </p>
-
 - 🌱 I’m currently learning **Pytorch,Tensorflow**
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
