@@ -3,15 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0h-a-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="r0h-a-a-n" /> </p>
 
-- 🌱 I’m currently learning **Pytorch,Tensorflow**
-
-- 👯 I’m looking to collaborate on **Cyber Security Projects**
-
-- 🤝 I’m looking for help with **Machine Learning Projects**
-
-- 📫 You can reach out to me on **ssrohaan178@gmail.com**
-
-
+  
+![gitgif](https://github.com/user-attachments/assets/7a4c9be0-6789-4dc4-9907-4da05171a13a)
 
 
 <h3 align="left">Connect with me:</h3>
