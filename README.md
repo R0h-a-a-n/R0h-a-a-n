@@ -33,6 +33,7 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 </p>
 
 ---
@@ -43,11 +44,8 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 <a href="https://leetcode.com/u/r0h-a-a-n/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-<a href="https://codeforces.com/profile/xorhaan" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
-</a>
+<a href="https://codeforces.com/profile/xorhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xorhaan" height="30" width="40" /></a>
 </p>
-
 
 ---
 
@@ -67,10 +65,21 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 
 ---
 
-<b>Top Repositories</b>
+<b>Top Repositories</b>  
 
-<div width="100%" align="center"><a href="https://github.com/R0h-a-a-n/Occlufix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=Occlufix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/R0h-a-a-n/Causana" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=Causana&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
 
-<br /><br /><br /><br /><br />
+<a href="https://github.com/R0h-a-a-n/Occlufix">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=Occlufix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/R0h-a-a-n/Causana">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=Causana&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
-<div width="100%" align="center"><a href="https://github.com/R0h-a-a-n/convidat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=convidat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br/>
+
+<a href="https://github.com/R0h-a-a-n/convidat">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=convidat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
+</div>
