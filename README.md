@@ -6,7 +6,7 @@ ML / Data Science / Backend
 
 I am passionate about coding and competitive programming, where I enjoy solving complex problems with efficient algorithms and logical precision. My interest in mathematics and chess strengthens my ability to think strategically, recognize patterns, and approach challenges with structured reasoning. On the development side, I focus on backend engineering, building scalable systems, APIs, and microservices that prioritize performance and reliability. At the same time, I am driven by machine learning engineering, where I work on designing models, optimization methods, and end-to-end pipelines that bring theory into impactful real-world applications.
 
-* 🌍  I'm based in India(chennai)
+* 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Website](http://rohaan.tech)  
 * ✉️  You can contact me at [ssrohaan178@gmail.com](mailto:ssrohaan178@gmail.com)  
 * 🧠  I'm currently learning Spring Boot  
