@@ -9,7 +9,7 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 * 🌍  I'm based in India 
 * 🖥️  See my portfolio at [My Website](http://rohaan.tech)  
 * ✉️  You can contact me at [ssrohaan178@gmail.com](mailto:ssrohaan178@gmail.com)  
-* 🧠  I'm currently learning Spring Boot  
+* 🧠  I'm currently learning Spring Boot and Golang
 * 👥  I'm looking to collaborate on Kaggle competitions  
 
 ---
